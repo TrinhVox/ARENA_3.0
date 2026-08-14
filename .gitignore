@@ -100,4 +100,5 @@ student_*.py
 wandb/
 data/
 checkpoints/
-.cache/
+.cache/.venv/
+arena-llm-context/
