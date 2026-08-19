@@ -736,3 +736,6 @@ wandb.agent(sweep_id=sweep_id, function=train, count=3)
 wandb.finish()
 
 # %%
+
+
+# %%
